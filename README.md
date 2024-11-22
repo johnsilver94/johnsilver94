@@ -46,7 +46,7 @@
 ![Repos per languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnsilver94&theme=default)
 ![Languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnsilver94&theme=default)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnsilver94&theme=default)
-![Commits time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnsilver94&theme=default)
+![Commits time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnsilver94&theme=default&utcOffset=2)
 
 <!-- ## 💰 You can help me by Donating
 
