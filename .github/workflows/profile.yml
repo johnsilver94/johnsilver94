@@ -14,8 +14,11 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Create Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env: 
           GITHUB_TOKEN: ${{ secrets.PROFILE_CARD_TOKEN  }}
         with:
