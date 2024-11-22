@@ -1,0 +1,11 @@
+{
+	"line-length": false,
+	"no-inline-html": {
+		"allowed_elements": ["a", "div", "h1", "code", "p", "img"]
+	},
+	"first-line-heading": false,
+	"MD029": { "style": "ordered" },
+	"MD010": { "code_blocks": false },
+	"MD024": { "siblings_only": true },
+	"MD033":false
+}
