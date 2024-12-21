@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
 - 🤔 I’m looking for help with mastering Kubernetes and Terraform.
 - 💬 Ask me about web development, Databases, and data visualization.
-- 📫 How to reach me: [Email](mailto:johnsilver94@example.com) | [LinkedIn](https://www.linkedin.com/in/ion-cretu-04300b100/)
+- 📫 How to reach me: [Email](mailto:cretuion94@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ion-cretu-04300b100/)
 - ⚡ Fun fact: I love Space sci-fi and Strategy games!
 
 ## Tech Stack
